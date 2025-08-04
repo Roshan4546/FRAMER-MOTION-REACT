@@ -52,7 +52,7 @@ const App = () => {
         initial={{
           x:500
         }}
-      >Subscribe</motion.h1> */}
+      >Subscribe</motion.h1>  */}
 
 
       {/* <motion.img
